@@ -2517,6 +2517,10 @@ a {
 .cid-ucUjqqwSQL .mbr-section-title {
   color: #000000;
 }
+.cid-ucUjqqwSQL .card-title,
+.cid-ucUjqqwSQL .img-wrapper {
+  color: #0c2c68;
+}
 .cid-uccIqN1oet {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -2618,57 +2622,6 @@ a {
     text-align: center;
   }
 }
-.cid-uccIqN18NT {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
-  background-color: #ffffff;
-}
-.cid-uccIqN18NT .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-uccIqN18NT .item-wrapper {
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-}
-.cid-uccIqN18NT .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-uccIqN18NT .mbr-iconfont {
-  display: inline-flex;
-  font-size: 2rem;
-  color: #d70081;
-  width: 80px;
-  justify-content: center;
-  align-items: center;
-  background: #ffd7ef;
-  height: 80px;
-  border-radius: 50%;
-}
-.cid-uccIqN18NT .card-title,
-.cid-uccIqN18NT .iconfont-wrapper,
-.cid-uccIqN18NT .card-text {
-  color: #000000;
-  text-align: center;
-}
-.cid-uccIqN18NT .content-head {
-  max-width: 800px;
-}
-.cid-uccIqN18NT .mbr-section-title {
-  color: #000000;
-}
-.cid-uccIqN18NT .mbr-section-btn {
-  text-align: center;
-}
-.cid-uccIqN18NT .card-title,
-.cid-uccIqN18NT .iconfont-wrapper {
-  color: #93b4cb;
-}
 .cid-ucNNEPBMcZ {
   padding-top: 3rem;
   padding-bottom: 3rem;
@@ -2744,42 +2697,6 @@ a {
 }
 .cid-ucNNEPBMcZ .card-text {
   color: #24262b;
-}
-.cid-uccIqN2U5K {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: transparent;
-}
-.cid-uccIqN2U5K .mbr-text {
-  color: #000000;
-}
-.cid-uccIqN2U5K .mbr-section-subtitle {
-  color: #000000;
-}
-.cid-uccIqN2U5K .mbr-section-title {
-  color: #000000;
-  text-align: center;
-}
-.cid-uccIqN2U5K .mbr-text,
-.cid-uccIqN2U5K .item .mbr-section-btn {
-  text-align: left;
-}
-.cid-uccIqN2U5K .item-wrapper {
-  background: #ffffff;
-  margin-bottom: 2rem;
-  padding: 2.25rem;
-}
-@media (min-width: 992px) and (max-width: 1200px) {
-  .cid-uccIqN2U5K .item-wrapper {
-    padding: 2rem 1.5rem;
-    margin-bottom: 2rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-uccIqN2U5K .item-wrapper {
-    padding: 2rem 1.5rem;
-    margin-bottom: 1rem;
-  }
 }
 .cid-ucS5orYcV4 {
   padding-top: 6rem;
